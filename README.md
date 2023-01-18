@@ -17,6 +17,7 @@
   ### Pra entra em contato  me segue nas redes abaixo!
  
 <div> 
+ <a href="https://facebook.com/profile.php?id=10004638233039" target="_blank"><img src="htttps://img.shields.io/-facebook-%23E4405F?style=for-the-dadge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/michael_ramos_07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mikedouglasramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-ramos-777749260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
